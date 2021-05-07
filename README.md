@@ -6,6 +6,7 @@
 Dataset -
 KDD99 intrusion detection dataset has been used in the proposed algorithm. 
 
-Results -
+Results - The algorithms are compared using Precision, Recall and Accuracy. 
+It is evident from the table below that the combination of Naive Bayes and Decision Tree Algorithms gives us better results.
 
 ![image](https://user-images.githubusercontent.com/55597996/117409100-a67e0880-aec5-11eb-8d41-448e3c9e51c5.png)
